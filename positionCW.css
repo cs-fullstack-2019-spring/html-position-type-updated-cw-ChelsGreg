@@ -1,0 +1,42 @@
+code {
+    background: #cde2d5;
+    color: #370117;
+    display: block;
+    padding: 24px 15px;
+    text-align: center;
+}
+
+/***/
+/*{*/
+    /*border: 1px solid rgba(105, 105, 105, 0.47);*/
+/*}*/
+
+
+header, section, aside, footer {
+    margin: 0 1.5% 24px 1.5%;
+}
+
+
+
+section {
+    background: #cde2d5;
+    width: 50%;
+    padding: 24px 0px;
+    float: left;
+}
+
+
+aside{
+    background: #cde2d5;
+    width:35%;
+    float: right;
+    padding: 24px 0px;
+    margin-left: 20px;
+
+}
+
+
+footer{
+    clear:both;
+    margin-bottom: 0;
+}
