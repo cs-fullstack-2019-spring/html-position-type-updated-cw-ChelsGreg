@@ -1,5 +1,5 @@
 code {
-    background: #cde2d5;
+    background: #696969;
     color: #370117;
     display: block;
     padding: 24px 15px;
@@ -19,7 +19,7 @@ header, section, aside, footer {
 
 
 section {
-    background: #cde2d5;
+    background: #696969;
     width: 50%;
     padding: 24px 0px;
     float: left;
@@ -27,7 +27,7 @@ section {
 
 
 aside{
-    background: #cde2d5;
+    background: #696969;
     width:35%;
     float: right;
     padding: 24px 0px;
